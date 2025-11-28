@@ -1,2 +1,2 @@
 # Startizz
-Servidor de Minecraft da Startizz ✨
+Servidor de Minecraft 
